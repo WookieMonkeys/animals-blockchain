@@ -24,7 +24,6 @@ Developers can fork this app and add their own custom animal and territory types
 their fork. They can also add their custom instance of this app to the list of "Other Kingdoms"
 in the app by sending a pull request to the repo.
 
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -64,3 +63,4 @@ This code includes deployment settings for Firebase and Netlify in the `cors` di
 | Netlify  	| _headers, _redirects       	|
 
 If you're deploying this on another service, you'll need to set CORS headers appropriately for that service.
+
